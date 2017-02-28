@@ -1,0 +1,298 @@
+fileFormatVersion: 2
+guid: 63139b84426aeef41b9934987bed6b37
+timeCreated: 1476811422
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 5_+sky.sky_1_0_0
+    100002: 5_Mesh0042_1_0_0
+    100004: 5_Mesh0043_1_0_0
+    100006: 5_Mesh0046_1_0_0
+    100008: 5_Mesh0047_1_0_0
+    100010: 5_Mesh0048_1_0_0
+    100012: 5_Mesh0049_1_0_0
+    100014: 5_Mesh0050_1_0_0
+    100016: 5_Mesh0051_1_0_0
+    100018: 5_Mesh0052_1_0_0
+    100020: 5_Mesh0053_1_0_0
+    100022: 5_Mesh0054_1_0_0
+    100024: 5_Mesh0114_1_0_0
+    100026: 5_pillar_1_0_0
+    100028: 5_pillartop_1_0_0
+    100030: 5_rocks_1_0_0
+    100032: 5_stone1_1_0_0
+    100034: 5_stone2_1_0_0
+    100036: 5_water_1_0_0
+    100038: 7_clouds1_1_0_0
+    100040: 7_clouds2_1_0_0
+    100042: 7_grass_1_0_0
+    100044: 7_Mesh0107_1_0_0
+    100046: 7_Mesh0113_1_0_0
+    100048: 7_Mesh0115_1_0_0
+    100050: 7_Mesh0116_1_0_0
+    100052: 7_Mesh0117_1_0_0
+    100054: Armature
+    100056: Camera
+    100058: clouds 1
+    100060: clouds 1_end
+    100062: clouds 2
+    100064: clouds 2_end
+    100066: grass
+    100068: grass_end
+    100070: Lamp
+    100072: Mesh_0042
+    100074: Mesh_0042_end
+    100076: Mesh_0043
+    100078: Mesh_0043_end
+    100080: Mesh_0046
+    100082: Mesh_0046_end
+    100084: Mesh_0047
+    100086: Mesh_0047_end
+    100088: Mesh_0048
+    100090: Mesh_0048_end
+    100092: Mesh_0049
+    100094: Mesh_0049_end
+    100096: Mesh_0050
+    100098: Mesh_0050_end
+    100100: Mesh_0051
+    100102: Mesh_0051_end
+    100104: Mesh_0052
+    100106: Mesh_0052_end
+    100108: Mesh_0053
+    100110: Mesh_0053_end
+    100112: Mesh_0054
+    100114: Mesh_0054_end
+    100116: Mesh_0107
+    100118: Mesh_0107_end
+    100120: Mesh_0113
+    100122: Mesh_0113_end
+    100124: Mesh_0114
+    100126: Mesh_0114_end
+    100128: Mesh_0115
+    100130: Mesh_0115_end
+    100132: Mesh_0116
+    100134: Mesh_0116_end
+    100136: Mesh_0117
+    100138: Mesh_0117_end
+    100140: pillar
+    100142: pillar top
+    100144: pillar top_end
+    100146: pillar_end
+    100148: rocks
+    100150: rocks_end
+    100152: root ground
+    100154: sky
+    100156: sky_end
+    100158: stone 1
+    100160: stone 1_end
+    100162: stone 2
+    100164: stone 2_end
+    100166: //RootNode
+    100168: water
+    100170: water_end
+    400000: 5_+sky.sky_1_0_0
+    400002: 5_Mesh0042_1_0_0
+    400004: 5_Mesh0043_1_0_0
+    400006: 5_Mesh0046_1_0_0
+    400008: 5_Mesh0047_1_0_0
+    400010: 5_Mesh0048_1_0_0
+    400012: 5_Mesh0049_1_0_0
+    400014: 5_Mesh0050_1_0_0
+    400016: 5_Mesh0051_1_0_0
+    400018: 5_Mesh0052_1_0_0
+    400020: 5_Mesh0053_1_0_0
+    400022: 5_Mesh0054_1_0_0
+    400024: 5_Mesh0114_1_0_0
+    400026: 5_pillar_1_0_0
+    400028: 5_pillartop_1_0_0
+    400030: 5_rocks_1_0_0
+    400032: 5_stone1_1_0_0
+    400034: 5_stone2_1_0_0
+    400036: 5_water_1_0_0
+    400038: 7_clouds1_1_0_0
+    400040: 7_clouds2_1_0_0
+    400042: 7_grass_1_0_0
+    400044: 7_Mesh0107_1_0_0
+    400046: 7_Mesh0113_1_0_0
+    400048: 7_Mesh0115_1_0_0
+    400050: 7_Mesh0116_1_0_0
+    400052: 7_Mesh0117_1_0_0
+    400054: Armature
+    400056: Camera
+    400058: clouds 1
+    400060: clouds 1_end
+    400062: clouds 2
+    400064: clouds 2_end
+    400066: grass
+    400068: grass_end
+    400070: Lamp
+    400072: Mesh_0042
+    400074: Mesh_0042_end
+    400076: Mesh_0043
+    400078: Mesh_0043_end
+    400080: Mesh_0046
+    400082: Mesh_0046_end
+    400084: Mesh_0047
+    400086: Mesh_0047_end
+    400088: Mesh_0048
+    400090: Mesh_0048_end
+    400092: Mesh_0049
+    400094: Mesh_0049_end
+    400096: Mesh_0050
+    400098: Mesh_0050_end
+    400100: Mesh_0051
+    400102: Mesh_0051_end
+    400104: Mesh_0052
+    400106: Mesh_0052_end
+    400108: Mesh_0053
+    400110: Mesh_0053_end
+    400112: Mesh_0054
+    400114: Mesh_0054_end
+    400116: Mesh_0107
+    400118: Mesh_0107_end
+    400120: Mesh_0113
+    400122: Mesh_0113_end
+    400124: Mesh_0114
+    400126: Mesh_0114_end
+    400128: Mesh_0115
+    400130: Mesh_0115_end
+    400132: Mesh_0116
+    400134: Mesh_0116_end
+    400136: Mesh_0117
+    400138: Mesh_0117_end
+    400140: pillar
+    400142: pillar top
+    400144: pillar top_end
+    400146: pillar_end
+    400148: rocks
+    400150: rocks_end
+    400152: root ground
+    400154: sky
+    400156: sky_end
+    400158: stone 1
+    400160: stone 1_end
+    400162: stone 2
+    400164: stone 2_end
+    400166: //RootNode
+    400168: water
+    400170: water_end
+    4300000: 7_grass_1_0_0
+    4300002: 7_clouds2_1_0_0
+    4300004: 7_clouds1_1_0_0
+    4300006: 7_Mesh0117_1_0_0
+    4300008: 7_Mesh0116_1_0_0
+    4300010: 7_Mesh0115_1_0_0
+    4300012: 7_Mesh0113_1_0_0
+    4300014: 7_Mesh0107_1_0_0
+    4300016: 5_water_1_0_0
+    4300018: 5_stone2_1_0_0
+    4300020: 5_stone1_1_0_0
+    4300022: 5_rocks_1_0_0
+    4300024: 5_pillartop_1_0_0
+    4300026: 5_pillar_1_0_0
+    4300028: 5_Mesh0114_1_0_0
+    4300030: 5_Mesh0054_1_0_0
+    4300032: 5_Mesh0053_1_0_0
+    4300034: 5_Mesh0052_1_0_0
+    4300036: 5_Mesh0051_1_0_0
+    4300038: 5_Mesh0050_1_0_0
+    4300040: 5_Mesh0049_1_0_0
+    4300042: 5_Mesh0048_1_0_0
+    4300044: 5_Mesh0047_1_0_0
+    4300046: 5_Mesh0046_1_0_0
+    4300048: 5_Mesh0043_1_0_0
+    4300050: 5_Mesh0042_1_0_0
+    4300052: 5_+sky.sky_1_0_0
+    9500000: //RootNode
+    13700000: 5_+sky.sky_1_0_0
+    13700002: 5_Mesh0042_1_0_0
+    13700004: 5_Mesh0043_1_0_0
+    13700006: 5_Mesh0046_1_0_0
+    13700008: 5_Mesh0047_1_0_0
+    13700010: 5_Mesh0048_1_0_0
+    13700012: 5_Mesh0049_1_0_0
+    13700014: 5_Mesh0050_1_0_0
+    13700016: 5_Mesh0051_1_0_0
+    13700018: 5_Mesh0052_1_0_0
+    13700020: 5_Mesh0053_1_0_0
+    13700022: 5_Mesh0054_1_0_0
+    13700024: 5_Mesh0114_1_0_0
+    13700026: 5_pillar_1_0_0
+    13700028: 5_pillartop_1_0_0
+    13700030: 5_rocks_1_0_0
+    13700032: 5_stone1_1_0_0
+    13700034: 5_stone2_1_0_0
+    13700036: 5_water_1_0_0
+    13700038: 7_clouds1_1_0_0
+    13700040: 7_clouds2_1_0_0
+    13700042: 7_grass_1_0_0
+    13700044: 7_Mesh0107_1_0_0
+    13700046: 7_Mesh0113_1_0_0
+    13700048: 7_Mesh0115_1_0_0
+    13700050: 7_Mesh0116_1_0_0
+    13700052: 7_Mesh0117_1_0_0
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
