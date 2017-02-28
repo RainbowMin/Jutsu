@@ -1,12 +1,11 @@
 JUTSU
 =====
 Unity3D POC : Jutsu based skill game<br>
-Warning: the size of this repository is almost 1go - download with caution
+*Warning: the size of this repository is almost 1go - download with caution*
 
 This project is to teach myself how to use Unity3D and its environment : animation with Blender, sounds customization with Audacity etc.<br>
 [Youtube demo scene to show basic jutsu use cases](http://google.com)
 
-<br>
 <p align="center">
   Valley of The End Environment<br>
   <img src="/docs/ValleyOfTheEnd_Cascade_light.gif"/>
@@ -14,7 +13,6 @@ This project is to teach myself how to use Unity3D and its environment : animati
 
 All of the assets used here are free and available to download, they are listed at the bottom in the credits section.<br>
 
-<br>
 <p align="center">
   Path following with custom mesh renderer<br>
   <img src="/docs/PathToPoints_light.gif"/>
