@@ -4,7 +4,7 @@ Unity3D POC : Jutsu based skill game<br>
 *Warning: the size of this repository is almost 1go - download with caution*
 
 This project is to teach myself how to use Unity3D and its environment : animation with Blender, sounds customization with Audacity etc.<br>
-[Youtube demo scene to show basic jutsu use cases](http://google.com)
+Demo on youtube : [https://www.youtube.com/watch?v=m_Y27xpywi0](https://www.youtube.com/watch?v=m_Y27xpywi0)
 
 <p align="center">
   Valley of The End Environment<br>
