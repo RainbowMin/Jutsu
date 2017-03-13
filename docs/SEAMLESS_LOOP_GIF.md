@@ -18,3 +18,10 @@ ffmpeg -i input_loop.mp4 -vf scale=640:-1:flags=lanczos,fps=10 frames/ffout%03d.
 `http://gifgifs.com/optimizer/`
 
 Tada you have now 1 second gif that loops seamlessly at about 600kb in size.
+
+
+#### Useful commands
+- Convert input video into smaller videos (3 seconds each for example)<br>
+`ffmpeg -i tosplit.mp4 -map 0 -c copy -f segment -segment_time 3 -reset_timestamps 1 splitted/out%02d.mp4`
+- Convert video to gif with ffmpeg only<br>
+`ffmpeg -i video.mp4 -vf scale=500:-1 -t 10 -r 10 image.gif`
