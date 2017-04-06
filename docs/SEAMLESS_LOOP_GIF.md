@@ -27,3 +27,4 @@ Tada you have now 1 second gif that loops seamlessly at about 600kb in size.
 `ffmpeg -i video.mp4 -vf scale=500:-1 -t 10 -r 10 image.gif`
 - Convert images to video<br>
 `ffmpeg -framerate 24 -i shot%03d.png output.mp4`
+`ffmpeg -framerate 24 -i shot%03d.png -pix_fmt yuv420p -vf "scale=trunc(iw/2)*2:trunc(ih/2)*2" output.mp4`
