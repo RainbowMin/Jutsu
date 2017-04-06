@@ -25,3 +25,5 @@ Tada you have now 1 second gif that loops seamlessly at about 600kb in size.
 `ffmpeg -i tosplit.mp4 -map 0 -c copy -f segment -segment_time 3 -reset_timestamps 1 splitted/out%02d.mp4`
 - Convert video to gif with ffmpeg only<br>
 `ffmpeg -i video.mp4 -vf scale=500:-1 -t 10 -r 10 image.gif`
+- Convert images to video<br>
+`ffmpeg -framerate 24 -i shot%03d.png output.mp4`
