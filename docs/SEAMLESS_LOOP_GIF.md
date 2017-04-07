@@ -28,3 +28,10 @@ Tada you have now 1 second gif that loops seamlessly at about 600kb in size.
 - Convert images to video<br>
 `ffmpeg -framerate 24 -i shot%03d.png output.mp4`
 `ffmpeg -framerate 24 -i shot%03d.png -pix_fmt yuv420p -vf "scale=trunc(iw/2)*2:trunc(ih/2)*2" output.mp4`
+- Rename of bunch of files with powershell<br>
+`$i=0;Get-ChildItem *.jpg | %{Rename-Item $_ -NewName ('{0:D4}.png' -f $i++)}`
+- Crop images with imagemagick<br>
+`mogrify.exe -crop 246x628-0+40 *.png` - Remove Top first 40 pixels<br>
+`mogrify.exe -crop 246x628-0-110 *.png` - Remove last 110 pixels
+- Generate APNG files (Animated PNG)<br>
+`http://apngasm.sourceforge.net/`
